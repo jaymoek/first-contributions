@@ -7,6 +7,7 @@
 - [vikalpchaudhary](https://github.com/vikalpchaudhary)
 - [Khang Nguyen](https://github.com/khangnguyen04work-program)
 - [Rishabh](https://github.com/Rishp-3)
+- [James Wandika](https://github.com/jaymoek)
 - [gh900-0624] (https://github.com/)
 - [Minh Pham] (https://github.com/tuanminh130707-create)
 - [xDatabox] (https://github.com/xdatabox)
